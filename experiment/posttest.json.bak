@@ -1,0 +1,30 @@
+[
+
+    {
+        "question": "Shear stress in a fluid depends on location also",
+        "qid": 1,
+        "option_a": "True",
+        "option_b": "False",
+        "option_c": "Not applicable",
+        "option_d": "Additional conditions are required",
+        "correct_option": "a"
+    },
+    {
+        "question": "du/dy represents",
+        "qid": 2,
+        "option_a": "Shear stress",
+        "option_b": "Shear strain",
+        "option_c": "Kinematic viscosity",
+        "option_d": "Viscosity",
+        "correct_option": "b"
+    },
+    {
+        "question": "Shear stress in a fluid is directly proportional to",
+        "qid": 3,
+        "option_a": "Viscosity",
+        "option_b": "Kinematic viscosity",
+        "option_c": "Shear stress",
+        "option_d": "Shear strain",
+        "correct_option": "d"
+    }
+]
