@@ -1,0 +1,29 @@
+[
+    {
+        "question": "Select the correct option",
+        "qid": 1,
+        "option_a": "The viscosity is defined as the shear stress required to produce unit rate of shear strain",
+        "option_b": "The viscosity is defined as the shear stress required to produce 100 unit rate of shear strain",
+        "option_c": "The viscosity is defined as the shear stress required to produce 10 unit rate of shear strain",
+        "option_d": "The viscosity is defined as the shear stress required to produce 0.1 unit rate of shear strain.",
+        "correct_option": "a"
+    },
+    {
+        "question": "The SI unit of dynamic viscosity is",
+        "qid": 2,
+        "option_a": "Dyne-s/m<sup>2</sup>",
+        "option_b": "Kgf-s/m<sup>2</sup>",
+        "option_c": "Poise",
+        "option_d": "Ns/m<sup>2</sup>",
+        "correct_option": "d"
+    },
+    {
+        "question": "The SI unit of kinematic viscosity is",
+        "qid": 3,
+        "option_a": "m/s",
+        "option_b": "m<sup>2</sup>/s",
+        "option_c": "cm<sup>2</sup>/s",
+        "option_d": "stoke",
+        "correct_option": "b"
+    }
+]
